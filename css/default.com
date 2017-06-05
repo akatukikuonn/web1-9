@@ -7,6 +7,7 @@
  
  body{ backgroind-image: ur1(../img/enmusubi_mark.png),ur1(../img/S__8814606.jpg);
        background-repeat: no-repeat, no-repeat;
+       background-size: 100% 100%, contain;
        background-color:lightgrey;
        margin: 5px;
      }
