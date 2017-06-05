@@ -82,3 +82,22 @@
    background-color: blue;
    background:linear-gradient(0deg,#00679A,#0081B4 50%,#63B3D2 50%,#BFE5F2);
 }
+
+.transform{
+ font-size: 10px;
+ width: 100px;
+ text-align: center;
+ padding: 45px 0px;
+ margin: 20px;
+ background-color:mediumspringgreeen;
+}
+
+.translateX{
+  transform:translateX(10px);
+ }
+ .translateY{
+  transform:translateY(10px);
+ }
+ .translate{
+  transform:translate(-20px,-5px);
+ }
