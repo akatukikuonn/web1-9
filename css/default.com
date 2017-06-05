@@ -134,7 +134,7 @@ p.transition a{
  font-size: 30px;
  text-decoration: none;
  padding: 5px;
- transition: 1s;
+ transition:background-color 1s 0s, color 1s 1s;
 }
 p.transition a:hover{
  background-color: gold;
