@@ -36,27 +36,33 @@
                     0px 0px 13px deeppink,
                     0px 0px 13px deeppink;}
 
-.border-radius-one{
-  border-radius:50px;
-  background-color: floralwhite;
-  padding:10px;
-  margin:5px;
+#box-shadow{
+  font-size:30px;
  }
- .border-radius-two{
-  boder-radius:5px 50px;
-  background-color:florawhite;
-  padding:10px;
-  margin:5px;
+ .box-drop_shadow{
+  box-shadow: 2px 2px 5px gray;
+  padding:5px;margin:20px;}
   }
-.border-radius-three{
-  boder-radius:5px 50px;
-  background-color:florawhite;
-  padding:10px;
-  margin:5px;
+.box-grow{
+  color: white;
+  box-shadow: 0px 0px 10px gray;
+  padding:5px;margin:20px;
  }
- .border-radius-four{
-  boder-radius:5px 50px;
-  background-color:florawhite;
-  padding:10px;
-  margin:5px;
+ .box-inset_drop_shadow{
+  box-shadow:2px 2px 5px gray inset;
+  padding:5px;margin:20px;
+  }
+  .box-inset_grow{
+  box-shadow:0px 0px 15px silver inset;
+  padding:5px;margin:20px;
+  }
+  .box-spread_shadow{
+  box-shadow:0px 0px 0px 3px  black;
+  padding:5px;margin:20px;
+  }
+  .box-multi_shadow{
+  box-shadow:0px 0px 0px 3px lightgrey inset,
+             0px 0px 0px 4px black inset,
+             2px 2px 10px 0px black,
+  padding:5px;margin:20px;
   }
