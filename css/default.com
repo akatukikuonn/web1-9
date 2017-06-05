@@ -102,25 +102,43 @@
   transform:translate(-20px,-5px);
  }
 .scale{
-transform: scale(1.2);
+ transform: scale(1.2);
 }
 .scaleY{
-transform:scaleY(0.6);
+ transform:scaleY(0.6);
 }
 .rotate{
- transform:rotate(30deg);
+  transform:rotate(30deg);
  }
  .skewX{
- transform:skewX(30deg);
+  transform:skewX(30deg);
  }
  .skewY{
- transform:skewY(45deg);
+  transform:skewY(45deg);
  }
  .skew{
- transform:skew(30deg,45deg);
+  transform:skew(30deg,45deg);
  }
  .transform-origin{
- transform-origin:0% 0%;
- transform: rotate(30deg);
+  transform-origin:0% 0%;
+  transform: rotate(30deg);
  }
  
+p.transition{
+ margin:10px;
+}
+
+p.transition a{
+ background-solor: mediumseagreen;
+ color: white;
+ font-size: 30px;
+ text-decoration: none;
+ padding: 5px;
+ transition: 1s;
+}
+p.transition a:hover{
+ background-color: gold;
+ text-decoration: none;
+ padding: 5px;
+ color: black;
+ }
