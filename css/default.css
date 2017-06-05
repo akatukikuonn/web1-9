@@ -33,7 +33,7 @@
                     -1px -1px 0px gray;}
 .neon{color:white;
       text-shadow:0px 0px 5px white,
-                    0px px 13px deeppink,
+                    0px 0px 13px deeppink,
                     0px 0px 13px deeppink,
                     0px 0px 13px deeppink,
                     0px 0px 13px deeppink;}
@@ -43,7 +43,7 @@
  }
  .box-drop_shadow{
   box-shadow: 2px 2px 5px gray;
-  padding:5px;margin:20px;}
+  padding:5px;margin:20px;
   }
 .box-grow{
   color: white;
@@ -65,7 +65,7 @@
   .box-multi_shadow{
   box-shadow:0px 0px 0px 3px lightgrey inset,
              0px 0px 0px 4px black inset,
-             2px 2px 10px 0px black,
+             2px 2px 10px 0px black;
   padding:5px;margin:20px;
   }
 
@@ -75,7 +75,7 @@
    padding: 10px;
    width: 200px;
    text-align: center;
-   boder-radius: 5px;
+   border-radius: 5px;
    box-shadow: 1px 1px 3px dimgray;
    color:white;
    font-weight: bold;
@@ -89,7 +89,7 @@
  text-align: center;
  padding: 45px 0px;
  margin: 20px;
- background-color:mediumspringgreeen;
+ background-color:mediumspringgreen;
 }
 
 .translateX{
