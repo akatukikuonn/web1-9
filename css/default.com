@@ -107,3 +107,20 @@ transform: scale(1.2);
 .scaleY{
 transform:scaleY(0.6);
 }
+.rotate{
+ transform:rotate(30deg);
+ }
+ .skewX{
+ transform:skewX(30deg);
+ }
+ .skewY{
+ transform:skewY(45deg);
+ }
+ .skew{
+ transform:skew(30deg,45deg);
+ }
+ .transform-origin{
+ transform-origin:0% 0%;
+ transform: rotate(30deg);
+ }
+ 
