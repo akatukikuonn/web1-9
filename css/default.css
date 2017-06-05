@@ -1,11 +1,11 @@
-@charset"utf-8";
+@charset "utf-8";
 
 *{
    margin:0;
    padding:0;
  }
  
- body{ backgroind-image: ur1(../img/enmusubi_mark.png),ur1(../img/S__8814606.jpg);
+ body{ backround-image: ur1(../img/enmusubi_mark.png),ur1(../img/S__8814606.jpg);
        background-repeat: no-repeat, no-repeat;
        background-size: 100% 100%, contain;
        background-color:lightgrey;
@@ -129,7 +129,7 @@ p.transition{
 }
 
 p.transition a{
- background-solor: mediumseagreen;
+ backround-solor: mediumseagreen;
  color: white;
  font-size: 30px;
  text-decoration: none;
