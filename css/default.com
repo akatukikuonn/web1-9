@@ -5,8 +5,9 @@
    padding:0;
  }
  
- body{
-       background-color:gray;
+ body{ backgroind-image: ur1(../img/enmusubi_mark.png),ur1(../img/S__8814606.jpg);
+       background-repeat: no-repeat, no-repeat;
+       background-color:lightgrey;
        margin: 5px;
      }
 
