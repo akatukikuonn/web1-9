@@ -101,3 +101,9 @@
  .translate{
   transform:translate(-20px,-5px);
  }
+.scale{
+transform: scale(1.2);
+}
+.scaleY{
+transform:scaleY(0.6);
+}
