@@ -6,7 +6,7 @@
  }
  
  body{
-       background-color:;
+       background-color:gray;
        margin: 5px;
      }
 
@@ -35,3 +35,28 @@
                     0px 0px 13px deeppink,
                     0px 0px 13px deeppink,
                     0px 0px 13px deeppink;}
+
+.border-radius-one{
+  border-radius:50px;
+  background-color: floralwhite;
+  padding:10px;
+  margin:5px;
+ }
+ .border-radius-two{
+  boder-radius:5px 50px;
+  background-color:florawhite;
+  padding:10px;
+  margin:5px;
+  }
+.border-radius-three{
+  boder-radius:5px 50px;
+  background-color:florawhite;
+  padding:10px;
+  margin:5px;
+ }
+ .border-radius-four{
+  boder-radius:5px 50px;
+  background-color:florawhite;
+  padding:10px;
+  margin:5px;
+  }
