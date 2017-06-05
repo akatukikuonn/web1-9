@@ -68,3 +68,17 @@
              2px 2px 10px 0px black,
   padding:5px;margin:20px;
   }
+
+.button{
+   display: block;
+   margin: 5px;
+   padding: 10px;
+   width: 200px;
+   text-align: center;
+   boder-radius: 5px;
+   box-shadow: 1px 1px 3px dimgray;
+   color:white;
+   font-weight: bold;
+   background-color: blue;
+   background:linear-gradient(0deg,#00679A,#0081B4 50%,#63B3D2 50%,#BFE5F2);
+}
